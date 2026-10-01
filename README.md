@@ -1,27 +1,27 @@
 <picture>
-  <img alt="Preet Saini — Under the surface. Exploring systems. Following connections." src="./assets/field-notes.svg" width="100%">
+  <img alt="Preet Saini — Under the surface. Exploring intelligence. Connecting systems." src="./assets/field-notes.svg" width="100%">
 </picture>
 
 <br>
 
-### A little context
+### AI is the next chapter.
 
-I'm Preet. My interests sit where **ethical hacking, networking, and games** meet. I'm currently learning ethical hacking and networking.
+I'm Preet. I'm getting deeper into **artificial intelligence**, and making it the main direction of my upcoming work on GitHub.
 
-This is my corner of GitHub: a place to explore what happens beneath the interface.
+My interests in ethical hacking, networking, and games still shape my curiosity. Now, that curiosity is pointing toward AI: learning how it works, experimenting with it, and turning ideas into projects.
 
 <br>
 
-### What draws me in
+### Where I'm headed
 
-| 01 — Security | 02 — Networks | 03 — Games |
+| 01 — Main focus | 02 — Upcoming work | 03 — Foundation |
 | :--- | :--- | :--- |
-| Ethical hacking and how systems behave. | The connections that make systems work. | A different way to explore interactive systems. |
+| Learning and experimenting with AI. | Building projects around artificial intelligence. | Ethical hacking, networking, and games. |
 
 <br>
 
 ---
 
-**Start a conversation** · [Email me](mailto:Preet.saini.0@outlook.com) · [Browse my repositories](https://github.com/preetsaini2004?tab=repositories)
+**Let's talk AI** · [Email me](mailto:Preet.saini.0@outlook.com) · [Explore my repositories](https://github.com/preetsaini2004?tab=repositories)
 
 <sub>Preet Saini &nbsp; / &nbsp; Under the surface.</sub>
