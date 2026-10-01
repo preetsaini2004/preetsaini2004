@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460" role="img" aria-labelledby="title desc">
+<title id="title">Preet Saini — Under the surface</title>
+<desc id="desc">An editorial forest-green cover with ivory lettering and an original abstract network map. Ethical hacking, networking, and games.</desc>
+<defs><pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#cdd8bf" stroke-opacity=".055"/></pattern><clipPath id="crop"><rect width="1200" height="460" rx="16"/></clipPath></defs>
+<g clip-path="url(#crop)">
+<rect width="1200" height="460" fill="#142923"/>
+<rect width="1200" height="460" fill="url(#grid)"/>
+<path d="M750 0V460" stroke="#cdd8bf" stroke-opacity=".18"/>
+<g font-family="Consolas, 'Courier New', monospace" font-size="13" letter-spacing="2" fill="#bdccab">
+<text x="52" y="48">PS / PERSONAL FIELD NOTES</text><text x="1148" y="48" text-anchor="end">EST. IN CURIOSITY</text>
+</g>
+<g font-family="Georgia, 'Times New Roman', serif" fill="#f1eee2">
+<text x="48" y="183" font-size="92" letter-spacing="-4">Preet Saini.</text>
+<text x="52" y="245" font-size="29" font-style="italic" fill="#c1ceae">Under the surface.</text>
+</g>
+<path d="M52 287H106" stroke="#bdccab" stroke-width="2"/>
+<text x="52" y="328" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#e0e4d7">Exploring systems. Following connections.</text>
+<g fill="none" stroke="#b9caa5" stroke-width="1.2">
+<path d="M924 92C1004 64 1098 103 1118 184S1101 342 1009 368S841 327 816 253S842 128 924 92Z" opacity=".18"/>
+<path d="M937 115C1007 90 1072 127 1090 196S1068 323 1005 343S867 312 844 251S863 143 937 115Z" opacity=".3"/>
+<path d="M948 140C1001 120 1050 150 1065 204S1041 302 996 320S889 298 870 249S892 159 948 140Z" opacity=".45"/>
+<path d="M955 166C997 151 1027 178 1037 216S1012 282 985 292S910 283 899 247S917 180 955 166Z" opacity=".7"/>
+<path d="M816 253L899 247L970 225L1065 204L1118 184M924 92L955 166L970 225L985 292L1009 368" opacity=".7"/>
+<path d="M844 251L891 171L1037 216L1005 343M937 115L1090 196L1041 302L870 249" opacity=".3"/>
+</g>
+<g fill="#142923" stroke="#c1ceae" stroke-width="2">
+<circle cx="816" cy="253" r="5"/><circle cx="924" cy="92" r="5"/><circle cx="1118" cy="184" r="5"/><circle cx="1009" cy="368" r="5"/><circle cx="899" cy="247" r="4"/><circle cx="955" cy="166" r="4"/><circle cx="1065" cy="204" r="4"/><circle cx="985" cy="292" r="4"/>
+</g>
+<circle cx="970" cy="225" r="10" fill="#c1ceae"/><circle cx="970" cy="225" r="20" fill="none" stroke="#c1ceae" stroke-opacity=".4"/>
+<g font-family="Consolas, 'Courier New', monospace" font-size="11" letter-spacing="1" fill="#bdccab"><text x="813" y="229">OBSERVE</text><text x="1050" y="161">QUESTION</text><text x="1030" y="373">UNDERSTAND</text></g>
+<path d="M52 392H1148" stroke="#cdd8bf" stroke-opacity=".2"/>
+<g font-family="Consolas, 'Courier New', monospace" font-size="12" letter-spacing="1.5" fill="#bdccab"><text x="52" y="427">01 / SECURITY</text><text x="292" y="427">02 / NETWORKS</text><text x="532" y="427">03 / GAMES</text><text x="1148" y="427" text-anchor="end">PREETSAINI2004</text></g>
+</g></svg>
