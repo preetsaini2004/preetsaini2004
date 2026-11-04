@@ -15,6 +15,22 @@ I'm **Preet**. I'm getting deeper into **artificial intelligence** and making it
   <img src="./assets/foundation.svg" width="100%" alt="AI is the main focus. My supporting interests are ethical hacking, networking, and games.">
 </picture>
 
+<a href="https://github.com/preetsaini2004/traceleakcheck">
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/terminal-mobile.svg">
+  <img src="./assets/terminal.svg" width="100%" alt="Field work: a TraceLeakCheck run. The app leaks an OpenAI key in 15 places; through the redaction Collector the result is clean.">
+</picture>
+</a>
+
+<a href="https://github.com/preetsaini2004/traceleakcheck">
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/shipped-mobile.svg">
+  <img src="./assets/shipped.svg" width="100%" alt="Shipped and reported: TraceLeakCheck, an open-source tool that catches secrets leaking through an AI app's OpenTelemetry, and OpenTelemetry bug opentelemetry-python-contrib #5279, found with it.">
+</picture>
+</a>
+
+[TraceLeakCheck](https://github.com/preetsaini2004/traceleakcheck) · [PyPI](https://pypi.org/project/traceleakcheck/) · [Bug report #5279](https://github.com/open-telemetry/opentelemetry-python-contrib/issues/5279)
+
 <a href="mailto:Preet.saini.0@outlook.com">
 <picture>
   <source media="(max-width: 600px)" srcset="./assets/contact-mobile.svg">
@@ -32,6 +48,8 @@ I'm **Preet**. I'm getting deeper into **artificial intelligence** and making it
 **Upcoming work:** turning ideas into AI projects.
 
 **Supporting interests:** ethical hacking, networking, and games.
+
+**Shipped:** [TraceLeakCheck](https://github.com/preetsaini2004/traceleakcheck), an open-source tool that catches secrets leaking through AI apps' monitoring data.
 
 The learning loop: learn, try, build, repeat.
 
