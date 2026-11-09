@@ -31,6 +31,15 @@ I'm **Preet**. I'm getting deeper into **artificial intelligence** and making it
 
 [TraceLeakCheck](https://github.com/preetsaini2004/traceleakcheck) · [PyPI](https://pypi.org/project/traceleakcheck/) · [Bug report #5279](https://github.com/open-telemetry/opentelemetry-python-contrib/issues/5279)
 
+<a href="https://github.com/preetsaini2004/glowtune">
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/glowtune-mobile.svg">
+  <img src="./assets/glowtune.svg" width="100%" alt="Now playing: Glowtune, an open-source Windows app that lights your screen edges in the album colors, syncs lyrics word by word, and turns your desktop into a live music scene.">
+</picture>
+</a>
+
+[Glowtune](https://github.com/preetsaini2004/glowtune) · [Download for Windows](https://github.com/preetsaini2004/glowtune/releases/latest) · [Watch the launch video](https://github.com/preetsaini2004/glowtune/releases/latest)
+
 <a href="mailto:Preet.saini.0@outlook.com">
 <picture>
   <source media="(max-width: 600px)" srcset="./assets/contact-mobile.svg">
@@ -49,7 +58,7 @@ I'm **Preet**. I'm getting deeper into **artificial intelligence** and making it
 
 **Supporting interests:** ethical hacking, networking, and games.
 
-**Shipped:** [TraceLeakCheck](https://github.com/preetsaini2004/traceleakcheck), an open-source tool that catches secrets leaking through AI apps' monitoring data.
+**Shipped:** [TraceLeakCheck](https://github.com/preetsaini2004/traceleakcheck), an open-source tool that catches secrets leaking through AI apps' monitoring data, and [Glowtune](https://github.com/preetsaini2004/glowtune), a desktop music companion with edge glow and synced lyrics.
 
 The learning loop: learn, try, build, repeat.
 
